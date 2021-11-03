@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://sebdelile.github.io/",
     title: "Gatsby official tuto",
-    pathPrefix: "/gatsby-official-tuto"
   },
+  pathPrefix: "/gatsby-official-tuto",
   plugins: [
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
